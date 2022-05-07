@@ -18,5 +18,5 @@ I currently work as a Senior PHP Developer at [eMAG](https://www.emag.ro/). I th
 ![](https://img.shields.io/badge/Cloud-Linode-brightgreen?style=flat&logo=linode&logoColor=white&color=brightgreen)
 
 - 🔭 I’m currently working on small projects.
-- 📫 How to reach me: [LinkedIn](linkedin.com/in/făgădău-mihai-060b00137)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f%C4%83g%C4%83d%C4%83u-mihai-060b00137)
 
