@@ -2,7 +2,7 @@
 
 My name is Mihai Fagadau (he/his) and I am a PHP engineer 🐘 / contractor / freelancer with 5+ years of experience, passionate about Linux, Semantic Web and Search engines. I'm also trying to contribute more to open source, and I started working on my own libraries. My work of interests are finance and ecommerce applications.
 
-I currently work as a Senior PHP Developer at [eMAG](https://www.emag.ro/). I thoroughly enjoy working on experimental applications, and I started working on small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
+ I thoroughly enjoy working on experimental applications, and I started working on small side projects. If coders had a style, I'd say mine is minimalist and/or indie.
 
 
 ## 🔧 Main Technologies & Tools
