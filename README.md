@@ -24,5 +24,5 @@ My name is Mihai Fagadau (he/his) and I am a PHP engineer 🐘 / contractor / fr
 - 🔭 I’m currently working on small projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f%C4%83g%C4%83d%C4%83u-mihai-060b00137)
 - 🌐 How to know me: [Website](https://mihaichris.github.io)
-- ✏️ How to read me: [Website](https://mihaifagadau.hashnode.dev/)
+- ✏️ How to read me: [Blog](https://mihaifagadau.hashnode.dev/)
 
