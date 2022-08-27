@@ -21,7 +21,7 @@ My name is Mihai Fagadau (he/his) and I am a PHP engineer 🐘 / contractor / fr
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-- 🔭 I’m currently working on small projects.
+- 🔭 I’m currently working on small side projects.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/f%C4%83g%C4%83d%C4%83u-mihai-060b00137)
 - 🌐 How to know me: [Website](https://mihaichris.github.io)
 - ✏️ How to read me: [Blog](https://mihaifagadau.hashnode.dev/)
