@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Mihai Fagadau (he/his) and
-I am a PHP engineer 🐘 / contractor / freelancer with 5+ years of experience,
+I am a PHP engineer 🐘 / contractor / freelancer with 6+ years of experience,
 passionate about Linux, Semantic Web and Search engines.
 I'm also trying to contribute more to open source, and I
 started working on my own libraries.
